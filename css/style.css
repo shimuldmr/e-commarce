@@ -1,0 +1,45 @@
+.container .navbar-brand{
+    font-size: 35px;
+    font-weight: 800;
+}
+.container .navbar-nav{
+    font-size: 20px;
+    
+}
+.navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
+    padding-bottom: 30px;
+}
+.container .navbar-nav .nav-link{
+    margin: 0 10px;
+    color: black;
+}
+.navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
+    display: flex;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 15px;
+}
+img, svg {
+    vertical-align: middle;
+    margin: 0px 20px;
+}
+.container .row .col-7 {
+    padding: 0 70px;
+}
+
+.banner{
+    background-color: rgb(247, 180, 180);
+    height: 400px;
+    align-items:center;
+    border-radius: 30px;
+}
+
+/* 1 section end */
+
+
+/* section 2 start */
+.row .color1{
+    background-color: aqua;
+}
+
